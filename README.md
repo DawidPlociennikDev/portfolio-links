@@ -73,3 +73,11 @@
 4. [Ignaszak](https://www.ignaszak.pl/) - portal internetowy grupy dealerskiej z integracją z OTOMOTO. Strona oparta o framework **CakePHP**.
 
 
+# Kursy/Certyfikaty
+1. [Symfony Web Development Complete Guide: Beginner To Advanced](https://www.udemy.com/course/symfony-4-web-development-from-beginner-to-advanced/)  - w trakcie
+2. [PHPUnit - Unit & Selenium Testing For PHP Developers](https://www.udemy.com/course/symfony-4-web-development-from-beginner-to-advanced/)  - 25.07.2023
+3. [Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games](https://www.udemy.com/course/unrealcourse/)  - 12.2022
+4. [C++ Fundamentals: Game Programming For Beginners](https://www.udemy.com/course/cpp-fundamentals/)  - 01.11.2021
+5. [Architektura aplikacji internetowych opartych o framework Laravel](https://navoica.pl/courses/course-v1:PWSZ_Legnica+MOOC_03+2020_01/course/)  - 13.01.2021
+6. [Ionic - Build iOS, Android & Web Apps with Ionic & Angular](https://www.udemy.com/course/ionic-2-the-practical-guide-to-building-ios-android-apps/)  - 03.10.2018
+7. [PHP MVC Framework CodeIgniter Tutorial for Beginners Project](https://www.udemy.com/course/php-mvc-framework-codeigniter-tutorial-for-beginners-project/)  - 24.09.2018
