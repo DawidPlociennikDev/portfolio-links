@@ -1,5 +1,22 @@
-# Portfolio
+# O mnie
 
+Moją pasją jest programowanie, którą pielęgnuje już od 8 lat. Zawodowo spełniam
+się od 5 lat. Moimi pierwszymi projektami były aplikacje internetowe oparte na
+języku PHP i frameworku Codeigniter. Jest to mój pierwszy framework MVC, który
+poznałem. W trakcie swojej kariery poznałem również inne frameworki tj. Symfony i
+Laravel. W tym drugim programuje już od 2.5 lat.
+W swojej karierze zawodowej zaprogramowałem już ponad 60 projektów
+komercyjnych i swoich własnych.
+W ciągu 5 lat pracy poznałem również frontendowe języki programowania tj. Angular
+i bibliotekę Ionic, dzięki której udało mi się zaprogramować 4 aplikacje mobilne na
+urządzenia Android i iOS.
+Potrafię budować i korzystać z komunikacji REST API oraz projektować relacyjne bazy
+danych na potrzeby projektu.
+W swojej pracy jestem samodzielny, potrafię radzić sobie z problemami korzystając z
+dokumentacji lub anglojęzycznych forów internetowych. Potrafię pracować w zespole
+wykorzystując takie narzędzia jak GitHub lub Trello.
+
+# Portfolio
 ## Aplikacje mobilne (Ionic/Angular)
 1. [DrOKO Program lojalnościowy](https://play.google.com/store/apps/details?id=dr.okoapp&hl=pl&gl=US) - program lojalnościowy Aplikacja dostępna jest dla urządzeń [Android](https://play.google.com/store/apps/details?id=dr.okoapp&hl=pl&gl=US) i [iOS](https://apps.apple.com/us/app/droko-program-lojalnosciowy/id1456235101).
 2. [InTheHouse](https://play.google.com/store/apps/details?id=com.adawards.inthehouse) - aplikacja do oferowania własnych usług lub pozyskiwania pracowników utrzymania czystości. Aplikacja dostępna jest dla urządzeń [Android](https://play.google.com/store/apps/details?id=com.adawards.inthehouse) i [iOS](https://apps.apple.com/de/app/inthehouse/id6443443193).
@@ -75,7 +92,7 @@
 
 # Kursy/Certyfikaty
 1. [Symfony Web Development Complete Guide: Beginner To Advanced](https://www.udemy.com/course/symfony-4-web-development-from-beginner-to-advanced/)  - w trakcie
-2. [PHPUnit - Unit & Selenium Testing For PHP Developers](https://www.udemy.com/course/symfony-4-web-development-from-beginner-to-advanced/)  - 25.07.2023
+2. [PHPUnit - Unit & Selenium Testing For PHP Developers](https://www.udemy.com/course/phpunit-unit-selenium-testing-for-php-developers/)  - 25.07.2023
 3. [Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games](https://www.udemy.com/course/unrealcourse/)  - 12.2022
 4. [C++ Fundamentals: Game Programming For Beginners](https://www.udemy.com/course/cpp-fundamentals/)  - 01.11.2021
 5. [Architektura aplikacji internetowych opartych o framework Laravel](https://navoica.pl/courses/course-v1:PWSZ_Legnica+MOOC_03+2020_01/course/)  - 13.01.2021
