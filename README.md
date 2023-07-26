@@ -47,6 +47,7 @@ wykorzystując takie narzędzia jak GitHub lub Trello.
 21. [Landing page InTheHouse (zleceniodawca)](https://zlecenie.inthehouse.pl/) - landing page oparty o framework **Laravel**.
 22. [Clima Projekt](https://www.climaprojekt.pl/) - strona internetowa oparta o framework **Laravel**.
 23. [Szkoła Tatuażu](https://szkolatatuazu.pl/) - strona internetowa oparta o framework **Laravel**.
+24. [Graloptic](https://graloptic.pl/) - strona internetowa oparta o framework **Laravel**.
     
 ## Codeigniter
 1. [TwojaToyota](https://twojatoyota.pl/) - portal internetowy grupy dealerskiej z integracją z OTOMOTO. Strona oparta o framework **Codeigniter**.
