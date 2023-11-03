@@ -93,6 +93,7 @@ wykorzystując takie narzędzia jak GitHub lub Trello.
 
 # Kursy/Certyfikaty
 1. [Symfony Web Development Complete Guide: Beginner To Advanced](https://www.udemy.com/course/symfony-4-web-development-from-beginner-to-advanced/)  - w trakcie
+2. [SQL Masterclass: SQL for Data Analytics](https://www.udemy.com/course/the-complete-sql-masterclass-for-data-analytics/)  - 03.11.2023
 2. [Introduction to Apache Solr](https://www.udemy.com/course/learn-apache-solr-8/)  - 23.08.2023
 3. [PHPUnit - Unit & Selenium Testing For PHP Developers](https://www.udemy.com/course/phpunit-unit-selenium-testing-for-php-developers/)  - 25.07.2023
 4. [Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games](https://www.udemy.com/course/unrealcourse/)  - 12.2022
